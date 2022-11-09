@@ -1,0 +1,16 @@
+{
+  "name": "challenge01",
+  "version": "1.0.0",
+  "description": "Challenge 01 Codember 2022",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-specifier-resolution=node index.js"
+  },
+  "author": "Jesús Martín",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
