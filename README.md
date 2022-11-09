@@ -9,10 +9,17 @@
 | -------- | ----------------- | ------------------------------ |
 | 1        | ¡Arregla Twitter! | [Ver solución](./challenge01/) |
 
+## Secretos :shushing_face:
+
+| Secreto  | Titulo           | Pista          |
+| -------- | ---------------- | -------------- |
+| 1        | Saoko papi saoko | Mirar todos los archivos | 
+| 2        | La vaca traviesa | :cow: + :computer: |
+
 
 **Si ves cualquier tipo de error te agradezco la ayuda :wink:**
 
-## Autor ✒️
+## Autor :
 **Jesús Martín Zorrilla**
 
 Puedes contactar conmigo a través de mis [redes sociales](https://social-networks-jesusmarzor.vercel.app)
