@@ -19,7 +19,7 @@
 
 **Si ves cualquier tipo de error te agradezco la ayuda :wink:**
 
-## Autor :
+## Autor :black_nib:
 **Jesús Martín Zorrilla**
 
 Puedes contactar conmigo a través de mis [redes sociales](https://social-networks-jesusmarzor.vercel.app)

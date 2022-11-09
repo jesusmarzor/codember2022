@@ -32,7 +32,7 @@ usr:@itziar age:19 loc:isle psw:aaa fll:222 eme:itzi@gmail.com
 
 Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: https://codember.dev/users.txt
 
-## Pistas :thinking_face:
+## Pistas :thinking:
 - Los datos pueden estar en cualquier orden.
 - Los datos pueden estar en la misma línea o separados por líneas.
 - Los usuarios se separan por un salto de línea en blanco.
