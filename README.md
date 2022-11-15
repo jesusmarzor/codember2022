@@ -8,6 +8,7 @@
 | Reto     | Título            |                                |
 | -------- | ----------------- | ------------------------------ |
 | 1        | ¡Arregla Twitter! | [Ver solución](./challenge01/) |
+| 2        | ¡Atrapa a esos ciber criminales! | [Ver solución](./challenge02/) |
 
 ## Secretos :shushing_face:
 
@@ -15,7 +16,9 @@
 | -------- | ---------------- | -------------- |
 | 1        | Saoko papi saoko | Mirar todos los archivos | 
 | 2        | La vaca traviesa | :cow: + :computer: |
-
+| 3        | Confeti          | :tada: + :tada: |
+| 4        | Minijuego        | Juego de lógica lanzado en 1984 |
+| 5        | Easter egg       | Google 360º |
 
 **Si ves cualquier tipo de error te agradezco la ayuda :wink:**
 
