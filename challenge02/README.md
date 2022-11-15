@@ -34,7 +34,7 @@ Ahora que ya sabes esto, https://codember.dev/encrypted.txt
 
 - Programado en Javascript
 - Carpetas:
-  - **services**: Llamadas a la "api" (en este caso para coger el ".txt" de los usuarios).
+  - **services**: Llamadas a la "api" (en este caso para coger el ".txt" del mensaje).
   - **utils**: Constantes o funciones utiles para llegar a la solución del reto.
 
 ## Iniciar :rocket:
