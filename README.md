@@ -11,7 +11,7 @@
 
 ## Secretos :shushing_face:
 
-| Secreto  | Titulo           | Pista          |
+| Secreto  | Título           | Pista          |
 | -------- | ---------------- | -------------- |
 | 1        | Saoko papi saoko | Mirar todos los archivos | 
 | 2        | La vaca traviesa | :cow: + :computer: |
@@ -22,7 +22,7 @@
 ## Autor :black_nib:
 **Jesús Martín Zorrilla**
 
-Puedes contactar conmigo a través de mis [redes sociales](https://social-networks-jesusmarzor.vercel.app)
+Puedes contactar conmigo a través de mis [redes sociales](https://social-networks-jesusmarzor.vercel.app).
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia (GNU General Public License v3.0) - Mirar el archivo [LICENSE](LICENSE) para más detalles.
